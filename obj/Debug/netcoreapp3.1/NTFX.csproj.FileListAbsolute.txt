@@ -1,0 +1,15 @@
+C:\Users\nasrj\source\repos\NTFX\NTFX\bin\Debug\netcoreapp3.1\MicroART.NTFX.exe
+C:\Users\nasrj\source\repos\NTFX\NTFX\bin\Debug\netcoreapp3.1\MicroART.NTFX.deps.json
+C:\Users\nasrj\source\repos\NTFX\NTFX\bin\Debug\netcoreapp3.1\MicroART.NTFX.runtimeconfig.json
+C:\Users\nasrj\source\repos\NTFX\NTFX\bin\Debug\netcoreapp3.1\MicroART.NTFX.runtimeconfig.dev.json
+C:\Users\nasrj\source\repos\NTFX\NTFX\bin\Debug\netcoreapp3.1\MicroART.NTFX.dll
+C:\Users\nasrj\source\repos\NTFX\NTFX\bin\Debug\netcoreapp3.1\MicroART.NTFX.pdb
+C:\Users\nasrj\source\repos\NTFX\NTFX\obj\Debug\netcoreapp3.1\NTFX.csprojAssemblyReference.cache
+C:\Users\nasrj\source\repos\NTFX\NTFX\obj\Debug\netcoreapp3.1\NTFX.AssemblyInfoInputs.cache
+C:\Users\nasrj\source\repos\NTFX\NTFX\obj\Debug\netcoreapp3.1\NTFX.AssemblyInfo.cs
+C:\Users\nasrj\source\repos\NTFX\NTFX\obj\Debug\netcoreapp3.1\NTFX.csproj.CoreCompileInputs.cache
+C:\Users\nasrj\source\repos\NTFX\NTFX\obj\Debug\netcoreapp3.1\MicroART.NTFX.dll
+C:\Users\nasrj\source\repos\NTFX\NTFX\obj\Debug\netcoreapp3.1\MicroART.NTFX.pdb
+C:\Users\nasrj\source\repos\NTFX\NTFX\obj\Debug\netcoreapp3.1\NTFX.genruntimeconfig.cache
+C:\Users\nasrj\source\repos\NTFX\NTFX\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\nasrj\source\repos\NTFX\NTFX\obj\Debug\netcoreapp3.1\NTFX.csproj.CopyComplete
